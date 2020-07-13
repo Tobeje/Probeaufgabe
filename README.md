@@ -11,7 +11,7 @@ In der sevdesk.sql Datei befindet sich ein SQL befehl um die Datenbank mit den T
 
 Ich habe mich für das Framework Slim Version 3.12 entschieden
 
-# Verwenden
+# How to use
 
 Erstellen der Datenbank ggf. die src/config/db.php anpassen
 
